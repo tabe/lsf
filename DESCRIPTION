@@ -1,0 +1,23 @@
+Package: lsf
+Title: Location-scale families
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Takeshi",
+           family = "Abe",
+           role = c("aut", "cre"),
+           email = "tabe@fixedpoint.jp",
+           comment = c(ORCID = "0000-0002-7074-4561"))
+Description: This package offers a single function to define a location-scale family from a standard probability distribution.
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Depends:
+    R (>= 3.6.0)
+Imports: 
+    methods
+Suggests: 
+    ggplot2,
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
