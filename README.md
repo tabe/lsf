@@ -6,8 +6,9 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-This R package provides a simple interface to define a location-scale
-family from a standard probability distribution.
+This R package provides a simple interface to define a [location-scale
+family](http://www.randomservices.org/random/special/LocationScale.html)
+from a standard probability distribution.
 
 ## Installation
 
